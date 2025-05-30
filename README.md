@@ -20,7 +20,7 @@ The project is divided into the following key tasks:
 
 ## 🧰 Tools & Technologies
 
-- **Python 3.x**
+- **Python 3.12**
 - **Jupyter Notebook**
 - **Libraries:**
   - `yfinance` – Fetch historical stock data
@@ -33,8 +33,11 @@ The project is divided into the following key tasks:
 ## 📈 Sample Visualizations
 
 - Line plots of historical revenue over time for Tesla
+- 
 - ![image](https://github.com/user-attachments/assets/29b6d247-d0e0-4739-998c-741068b3b200)
+- 
 - Line plots of historical revenue over time for GameStop
+- 
 ![image](https://github.com/user-attachments/assets/be653609-37f9-4bb7-acdd-2d9b0acb394e)
 
 
