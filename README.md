@@ -26,7 +26,7 @@ The project is divided into the following key tasks:
   - `yfinance` – Fetch historical stock data
   - `pandas` – Data manipulation and cleaning
   - `requests`, `BeautifulSoup` – Web scraping revenue data
-  - `matplotlib` – Data visualization
+  - `plotly` – Data visualization
 - **Microsoft Word** – Documentation of results
 
 ---
