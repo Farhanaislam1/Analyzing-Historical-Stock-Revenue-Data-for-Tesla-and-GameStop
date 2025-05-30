@@ -34,11 +34,13 @@ The project is divided into the following key tasks:
 
 ### Line plots of historical revenue over time for Tesla
  
-- ![image](https://github.com/user-attachments/assets/29b6d247-d0e0-4739-998c-741068b3b200)
+- ![image](https://github.com/user-attachments/assets/94643cb7-3251-49ed-99b5-4dc97c71e7be)
+
   
 ### Line plots of historical revenue over time for GameStop
 
-![image](https://github.com/user-attachments/assets/be653609-37f9-4bb7-acdd-2d9b0acb394e)
+![image](https://github.com/user-attachments/assets/c90cb5fa-7942-465a-a25d-e7bd427be088)
+
 
 
 ---
